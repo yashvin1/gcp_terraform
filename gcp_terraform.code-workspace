@@ -1,6 +1,7 @@
 {
     "folders": [
         {
+            "name": "gcp_terraform",
             "path": "."
         }
     ]
