@@ -1,0 +1,1 @@
+pathname="C:\\Users\\YASHVIN\\gcp_terraform\\terraform_var"
