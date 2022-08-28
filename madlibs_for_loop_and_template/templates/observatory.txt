@@ -1,0 +1,2 @@
+THE OBSERVATORY
+Out class when on a field trip to a ${adjectives[0]} observatory. It
