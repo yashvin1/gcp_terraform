@@ -27,11 +27,11 @@ variable "words" {
     numbers    = list(number),
   })
   default = {
-    adjectives = [ "yash" ]
+    adjectives = [ "yash","yash1","yash2"]
     adverbs = [ "sharma" ]
-    nouns = [ "raju" ]
+    nouns = [ "raju1","raju2","raju3","raju4","raju5","raju6","raju7","raju8","raju9","raju10","raju11" ]
     numbers = [ 100000 ]
-    verbs = [ "ram" ]
+    verbs = [ "ram","ram1"  ]
   }
 }
 
