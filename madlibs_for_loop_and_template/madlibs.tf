@@ -87,6 +87,11 @@ resource "local_file" "mad_libs" {
   })
 }
 
+
+output "name" {
+
+  value = random_shuffle.random_nouns[0].result[0]
+}
 data "archive_file" "mad_libs" {
   depends_on  = [local_file.mad_libs]
   type        = "zip"

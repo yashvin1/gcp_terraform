@@ -4,5 +4,8 @@
             "name": "gcp_terraform",
             "path": "."
         }
-    ]
+    ],
+    
+    "terminal.integrated.shellArgs.windows": ["start-ssh-agent_1.cmd"]
+
 }
